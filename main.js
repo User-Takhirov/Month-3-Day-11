@@ -116,3 +116,20 @@
 // }
 
 // console.log(ages);
+
+
+//4
+// let arr = [1,3,4,5,{name: 'Asil',age: 21},null,{  name: 'Alish', age: 30}];
+
+// function x(arr){
+//   let newArr = [];
+//   for (let i of arr) {
+//     if (typeof i == "object" &&  i !== null) {
+//       if (i.age > 20) {
+//         newArr.push(i);
+//       }
+//     }
+//   }
+//   return newArr;
+// };
+// console.log(x(arr));
