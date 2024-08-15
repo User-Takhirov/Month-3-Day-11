@@ -119,7 +119,7 @@
 
 
 //4
-// let arr = [1,3,4,5,{name: 'Asil',age: 21},null,{  name: 'Alish', age: 30}];
+// let arr = [1,3,4,5,{name: 'Cena',age: 21},null,{  name: 'Vini', age: 30}];
 
 // function x(arr){
 //   let newArr = [];
